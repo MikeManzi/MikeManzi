@@ -13,7 +13,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently a student at Rwanda Coding Academy.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - How to reach me: __manzimike378@gmail.com__
