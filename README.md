@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- How to reach me: __manzimike378@gmail.com__
+- How to reach me: __manzimike37@gmail.com__
 
 ---
 
