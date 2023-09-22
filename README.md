@@ -1,5 +1,5 @@
 <!-- Your title -->
-### Hi there 👋, I'm MANZI Mike
+### Hi there 👋, I'm Mike MANZI
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
