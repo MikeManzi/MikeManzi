@@ -13,8 +13,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about Java, TypeScript, and CSS.
+- 💬 Ask me about Java, TypeScript, and Python.
 - 📫 How to reach me: __manzimike37@gmail.com__
 
 ---
